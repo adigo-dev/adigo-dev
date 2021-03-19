@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Adigo (Developer) 👋
 
-## I'm a Adigo, Father, Developer.!
+## I'm a Adigo, Developer.!
 
 - 🔭 I’m currently working on a discord bot called lucidir 
 - 🌱 I’m currently learning Python
