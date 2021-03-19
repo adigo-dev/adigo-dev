@@ -1,7 +1,6 @@
 ### 👋 Hi there, I'm Adigo (Developer) 👋
 
-## I'm a Adigo, Builds Websites and Developer
-.!
+## I'm a Adigo, Builds Websites and Developer!
 
 - 🔭 I’m currently working on a discord bot called lucidir 
 - 🌱 I’m currently learning Python
