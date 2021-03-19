@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hi there, I'm Adigo (Developer) 👋
 
-<!--
-**adigo-dev/adigo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Adigo, Father, Developer.!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a discord bot called lucidir 
+- 🌱 I’m currently learning Python
+- 🥅 2021 Goals: Create a bot for the public audience
+- ⚡ Fun fact: I love to draw 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+
+[<img align="left" alt="https://adigodesign.online" width="22px" src="https://cdn.discordapp.com/attachments/821372295254638612/821416495733145680/logo.png" />][website]
+
+<br />
+
+[website]: https://adigodesign.online/
+
